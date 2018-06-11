@@ -1,0 +1,99 @@
+
+
+
+div#cabecera{
+	height: 200px;
+	background-image: url("../img/headimg.jpg");	
+}
+
+#cabecera h1{
+	font-size: 50pt;
+	text-align: center;
+	padding-top: 25px;
+}
+
+/*
+nav{
+	background-color: rgb(49, 55, 43);
+	margin-bottom:10px;
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+nav ul li a{
+	display: block;
+	padding:20px;
+	color: white;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background:#2980b9;
+}
+
+nav ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a:active{
+	background-color:#fff;
+	color: black;
+	font-weight: bold;
+}
+
+*/
+
+#twitter{
+	height: 600px;
+	width: 300px;
+	overflow: auto;
+}
+
+
+.imagen{
+	box-shadow: 5px 10px #888888;
+	border: 2px dashed;
+	margin-top: 20px;
+	margin-bottom: 10px;
+
+}
+
+footer{
+	border: 1px solid;
+}
+
+
+
+/*
+
+* {
+
+	font-family: "Verdana";	
+}
+p {
+	text-align: right;
+	color: blue;
+
+}
+
+p#iran,p#rusia {
+	 border: 1px dotted black;
+}
+
+span.bombo {
+
+	color:orange;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
+*/
